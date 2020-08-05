@@ -5,4 +5,7 @@ class calculator{
    public void diff(int a, int b){
     System.out.println("Difference is "+(a-b));
   }
+   public void div(int a, int b){
+    System.out.println("Quotient is "+(a/b));
+  }
 }
